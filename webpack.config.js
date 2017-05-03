@@ -25,7 +25,7 @@ var config = {
       loader: 'babel-loader',
       options: {
         presets: [
-          ['latest', { es2015: { modules: false } }]
+          ['react-native']
         ]
       }
     }]

@@ -37,8 +37,9 @@
   "devDependencies": {
     "arraybuffer-equal": "^1.0.4",
     "babel-core": "^6.22.1",
-    "babel-preset-latest": "^6.22.0",
     "babel-loader": "^6.2.10",
+    "babel-preset-latest": "^6.22.0",
+    "babel-preset-react-native": "^1.9.1",
     "babel-register": "^6.18.0",
     "chromedriver": "^2.27.1",
     "cross-env": "^3.1.4",
